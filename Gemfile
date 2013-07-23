@@ -38,3 +38,5 @@ gem 'rake', '>= 0.9.2'                                    # Needed for the Rakef
 # gem 'uglifier', '>= 1.3.0'                              # If using the minify transformer
 # gem 'htmlcompressor', '>= 0.0.3'                        # If using the minify transformer
 
+gem 'asciidoctor', '>= 0.1.4.pre'
+
